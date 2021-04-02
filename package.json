@@ -1,0 +1,16 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "Web project",
+  "main": "login.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ammar",
+  "author1": "Muhammad Ammar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
